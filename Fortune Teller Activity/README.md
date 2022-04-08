@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+For this assignment, I created a fortune teller game. The game allows for the user to choose a number between 0 and 10 and then read their fortune out to them based on their input. The fortunes are preset at 0-3 being low, 4-7 being average, and 8-10 being high. If any other number is input, it will not be read by the program.

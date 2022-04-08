@@ -1,1 +1,2 @@
 # Debugging Activity
+For this assignment, I debugged 4 programs to allow each of them to run and compile properly. For checkpoint 1, I debugged an infinite loop. For checkpoint 2, I debugged a program using an error message. For checkpoint 3, I used the feedback from the program to debug the program. For checkpoint 4, I used an error to debug again.

@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+For this assignment, I created a short story using code. I created variables for different basic data types: arrays, booleans, integers, and strings. I then used these variables in my story in place of the part of the story they represented.
