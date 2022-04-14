@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+For this assignment I made a webpage with a button that spawns a PacMan with a random velocity every time the button is clicked. Each PacMan bounces off the edges of the page, but this only starts when the "Start Game" button is clicked.
